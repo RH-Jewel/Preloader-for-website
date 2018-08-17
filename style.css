@@ -1,0 +1,116 @@
+/*=====================================================
+	Template Name : ........ HTML 5 Responsive Bootstrap-4 Template.
+	Author Name   : Ripon Hossain Jewel.
+	Author Url    : ......;
+	Decripation   : This is a one page HTML 5 Responsive Template.
+	Version       : 1.0 ;
+=======================================================*/
+
+/* ======= CSS Document ========= */
+
+/************ TABLE OF CONTENTS ***************
+
+	01. Google Fonts
+	02. 
+	03. 
+	04. 
+	05. 
+	06. 
+	07. 
+	08. 
+	09. 
+	10. 
+	11. 
+	12. 
+	13. 
+	14. 
+	15. 
+	16. 
+	17. 
+
+
+***********************************************/
+/*
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+*/
+
+/*Google Fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900|Poppins:300,400,600,700,800');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+a:focus,
+input:focus,
+button:focus {
+    outline: 0 solid;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body{
+    
+}
+
+img{
+    max-width: 100%;
+}
+
+a{
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/*----------------------- Preloader -----------------------*/
+body.preloader-site {
+    overflow: hidden;
+}
+
+.preloader-wrapper {
+    height: 100%;
+    width: 100%;
+    background: #FFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999999;
+}
+
+.preloader-wrapper .preloader {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+/*    width: 120px;*/
+}
+
+
+
+
+
